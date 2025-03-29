@@ -1,0 +1,308 @@
+{
+  "expertises": [
+    {
+      "label": "Thérapie cognitive et comportementale (TCC)",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Thérapie comportementale dialectique (TCD)",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Thérapie d’acceptation et d’engagement (ACT)",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Thérapie brève",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Thérapie systémique",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Thérapie humaniste",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Thérapie analytique",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Thérapie existentielle",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "EMDR",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Hypnose",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Art-thérapie",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Psychodrame",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Psychanalyse",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Médiation familiale",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Mindfulness / Méditation pleine conscience",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Sophrologie",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Coaching psychologique",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Psychothérapie intégrative",
+      "category": "Méthode thérapeutique"
+    },
+    {
+      "label": "Troubles anxieux",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Dépression",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Troubles bipolaires",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Schizophrénie",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Troubles de la personnalité",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Burn-out",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Trouble panique",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "TOC",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "TSPT / PTSD",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "TDAH",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Troubles alimentaires",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Addictions",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Troubles du sommeil",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Phobies",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Estime de soi / confiance en soi",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Idées suicidaires / automutilation",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Troubles dissociatifs",
+      "category": "Trouble pris en charge"
+    },
+    {
+      "label": "Enfants",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Adolescents",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Adultes",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Personnes âgées",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Couples",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Familles",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Personnes HPI",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Hypersensibles",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Personnes TSA",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Personnes LGBT+",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Personnes en situation de handicap",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Migrants / Exilés",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Étudiants",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Personnes neuroatypiques",
+      "category": "Public ciblé"
+    },
+    {
+      "label": "Accompagnement au deuil",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Séparation / divorce",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Difficultés conjugales",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Problèmes familiaux",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Parentalité / éducation",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "FIV / désir d’enfant / infertilité",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Périnatalité",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Harcèlement scolaire",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Harcèlement au travail",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Changement de vie / réorientation",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Crise existentielle",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Violence conjugale",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Traumatisme / abus / inceste",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Orientation sexuelle ou identité de genre",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Transition de genre",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Difficultés d'intégration sociale",
+      "category": "Situation de vie"
+    },
+    {
+      "label": "Psychologie du travail",
+      "category": "Domaine spécifique"
+    },
+    {
+      "label": "Psychologie scolaire",
+      "category": "Domaine spécifique"
+    },
+    {
+      "label": "Bilan psychologique / psychométrique",
+      "category": "Domaine spécifique"
+    },
+    {
+      "label": "Bilan QI / HPI",
+      "category": "Domaine spécifique"
+    },
+    {
+      "label": "Préparation mentale",
+      "category": "Domaine spécifique"
+    },
+    {
+      "label": "Mémoire / vieillissement cognitif",
+      "category": "Domaine spécifique"
+    },
+    {
+      "label": "Troubles d’apprentissage",
+      "category": "Domaine spécifique"
+    },
+    {
+      "label": "Souffrance au travail",
+      "category": "Domaine spécifique"
+    },
+    {
+      "label": "Gestion du stress professionnel",
+      "category": "Domaine spécifique"
+    },
+    {
+      "label": "Coaching de vie",
+      "category": "Domaine spécifique"
+    },
+    {
+      "label": "Orientation scolaire ou professionnelle",
+      "category": "Domaine spécifique"
+    }
+  ]
+}
