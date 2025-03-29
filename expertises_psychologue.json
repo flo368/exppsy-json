@@ -1,308 +1,534 @@
 {
   "expertises": [
     {
-      "label": "Thérapie cognitive et comportementale (TCC)",
-      "category": "Méthode thérapeutique"
+      "label": "Achat compulsif",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Thérapie comportementale dialectique (TCD)",
-      "category": "Méthode thérapeutique"
+      "label": "Addiction au sexe",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Thérapie d’acceptation et d’engagement (ACT)",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Thérapie brève",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Thérapie systémique",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Thérapie humaniste",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Thérapie analytique",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Thérapie existentielle",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "EMDR",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Hypnose",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Art-thérapie",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Psychodrame",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Psychanalyse",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Médiation familiale",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Mindfulness / Méditation pleine conscience",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Sophrologie",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Coaching psychologique",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Psychothérapie intégrative",
-      "category": "Méthode thérapeutique"
-    },
-    {
-      "label": "Troubles anxieux",
-      "category": "Trouble pris en charge"
-    },
-    {
-      "label": "Dépression",
-      "category": "Trouble pris en charge"
-    },
-    {
-      "label": "Troubles bipolaires",
-      "category": "Trouble pris en charge"
-    },
-    {
-      "label": "Schizophrénie",
-      "category": "Trouble pris en charge"
-    },
-    {
-      "label": "Troubles de la personnalité",
-      "category": "Trouble pris en charge"
-    },
-    {
-      "label": "Burn-out",
-      "category": "Trouble pris en charge"
-    },
-    {
-      "label": "Trouble panique",
-      "category": "Trouble pris en charge"
-    },
-    {
-      "label": "TOC",
-      "category": "Trouble pris en charge"
-    },
-    {
-      "label": "TSPT / PTSD",
-      "category": "Trouble pris en charge"
-    },
-    {
-      "label": "TDAH",
-      "category": "Trouble pris en charge"
-    },
-    {
-      "label": "Troubles alimentaires",
-      "category": "Trouble pris en charge"
+      "label": "Addiction aux jeux",
+      "category": "",
+      "isFeatured": false
     },
     {
       "label": "Addictions",
-      "category": "Trouble pris en charge"
+      "category": "",
+      "isFeatured": true
     },
     {
-      "label": "Troubles du sommeil",
-      "category": "Trouble pris en charge"
+      "label": "Adoption",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Phobies",
-      "category": "Trouble pris en charge"
+      "label": "Affirmation de soi",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Estime de soi / confiance en soi",
-      "category": "Trouble pris en charge"
+      "label": "Agressivité",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Idées suicidaires / automutilation",
-      "category": "Trouble pris en charge"
+      "label": "Aide psychologique",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Troubles dissociatifs",
-      "category": "Trouble pris en charge"
+      "label": "Alcoolisme",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Enfants",
-      "category": "Public ciblé"
+      "label": "Analyse des pratiques",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Adolescents",
-      "category": "Public ciblé"
+      "label": "Analyse transactionnelle",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Adultes",
-      "category": "Public ciblé"
+      "label": "Anorexie",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Personnes âgées",
-      "category": "Public ciblé"
+      "label": "Anorgasmie",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Couples",
-      "category": "Public ciblé"
+      "label": "Anxiété",
+      "category": "",
+      "isFeatured": true
     },
     {
-      "label": "Familles",
-      "category": "Public ciblé"
+      "label": "Aptitudes sociales",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Personnes HPI",
-      "category": "Public ciblé"
+      "label": "Asexualité",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Hypersensibles",
-      "category": "Public ciblé"
+      "label": "Ateliers",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Personnes TSA",
-      "category": "Public ciblé"
+      "label": "Autisme",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Personnes LGBT+",
-      "category": "Public ciblé"
+      "label": "Bisexualité",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Personnes en situation de handicap",
-      "category": "Public ciblé"
+      "label": "Boulimie",
+      "category": "",
+      "isFeatured": true
     },
     {
-      "label": "Migrants / Exilés",
-      "category": "Public ciblé"
+      "label": "Burn-out",
+      "category": "",
+      "isFeatured": true
     },
     {
-      "label": "Étudiants",
-      "category": "Public ciblé"
+      "label": "Coaching",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Personnes neuroatypiques",
-      "category": "Public ciblé"
+      "label": "Confiance en soi",
+      "category": "",
+      "isFeatured": true
     },
     {
-      "label": "Accompagnement au deuil",
-      "category": "Situation de vie"
+      "label": "Conseiller orientation",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Séparation / divorce",
-      "category": "Situation de vie"
+      "label": "Criminologue",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Difficultés conjugales",
-      "category": "Situation de vie"
-    },
-    {
-      "label": "Problèmes familiaux",
-      "category": "Situation de vie"
-    },
-    {
-      "label": "Parentalité / éducation",
-      "category": "Situation de vie"
-    },
-    {
-      "label": "FIV / désir d’enfant / infertilité",
-      "category": "Situation de vie"
-    },
-    {
-      "label": "Périnatalité",
-      "category": "Situation de vie"
-    },
-    {
-      "label": "Harcèlement scolaire",
-      "category": "Situation de vie"
-    },
-    {
-      "label": "Harcèlement au travail",
-      "category": "Situation de vie"
-    },
-    {
-      "label": "Changement de vie / réorientation",
-      "category": "Situation de vie"
+      "label": "Crise de panique",
+      "category": "",
+      "isFeatured": false
     },
     {
       "label": "Crise existentielle",
-      "category": "Situation de vie"
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Violence conjugale",
-      "category": "Situation de vie"
+      "label": "Deuil",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Traumatisme / abus / inceste",
-      "category": "Situation de vie"
+      "label": "Divorce",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Orientation sexuelle ou identité de genre",
-      "category": "Situation de vie"
+      "label": "Dyslexie",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Transition de genre",
-      "category": "Situation de vie"
+      "label": "Dépendance affective",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Difficultés d'intégration sociale",
-      "category": "Situation de vie"
+      "label": "Dépersonnalisation",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Psychologie du travail",
-      "category": "Domaine spécifique"
+      "label": "Dépression",
+      "category": "",
+      "isFeatured": true
     },
     {
-      "label": "Psychologie scolaire",
-      "category": "Domaine spécifique"
+      "label": "Développement personnel",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Bilan psychologique / psychométrique",
-      "category": "Domaine spécifique"
+      "label": "EFT",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Bilan QI / HPI",
-      "category": "Domaine spécifique"
+      "label": "EMDR",
+      "category": "",
+      "isFeatured": true
     },
     {
-      "label": "Préparation mentale",
-      "category": "Domaine spécifique"
+      "label": "Formation étude",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Mémoire / vieillissement cognitif",
-      "category": "Domaine spécifique"
+      "label": "Gestalt thérapie",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Troubles d’apprentissage",
-      "category": "Domaine spécifique"
+      "label": "Harcèlement scolaire",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Souffrance au travail",
-      "category": "Domaine spécifique"
+      "label": "Harcèlement travail",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Gestion du stress professionnel",
-      "category": "Domaine spécifique"
+      "label": "Homosexualité",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Coaching de vie",
-      "category": "Domaine spécifique"
+      "label": "Hypersensibilité",
+      "category": "",
+      "isFeatured": false
     },
     {
-      "label": "Orientation scolaire ou professionnelle",
-      "category": "Domaine spécifique"
+      "label": "Hypnose",
+      "category": "",
+      "isFeatured": true
+    },
+    {
+      "label": "Hypnose ericksonienne",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Identité et orientation sexuelle",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Insomnie",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Jalousie",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Maltraitance",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Médiation animale",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Neuropsychologue",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Névrose",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Orthophoniste",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "PNL",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Panne sexuelle",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Parentalité",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Personnes handicapées",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Personnes âgées",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Phobies",
+      "category": "",
+      "isFeatured": true
+    },
+    {
+      "label": "Psychanalyse",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psycho-oncologie",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychogénéalogie",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychologie en ligne",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychologie enfant",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychologie sport",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychologie travail",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychologue ado",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychologue clinicien",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychologue enfant précoce",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychologue judiciaire",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychologue scolaire",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychologue social",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychologue à domicile",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychopraticien",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychopédagogie",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychothérapeute",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Psychothérapie",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Périnatalité",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Schizophrénie",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Sexologue",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Sophrologue",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Stress",
+      "category": "",
+      "isFeatured": true
+    },
+    {
+      "label": "TDAH",
+      "category": "",
+      "isFeatured": true
+    },
+    {
+      "label": "TOC",
+      "category": "",
+      "isFeatured": true
+    },
+    {
+      "label": "Tabagisme",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Test QI",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Test d'orientation professionnelle",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Test de personnalité",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Test de recrutement",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Test psychotechnique",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Thérapie brève",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Thérapie comportementale et cognitive",
+      "category": "",
+      "isFeatured": true
+    },
+    {
+      "label": "Thérapie de couple",
+      "category": "",
+      "isFeatured": true
+    },
+    {
+      "label": "Thérapie de groupe",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Thérapie familiale",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Thérapie par réalité individuelle",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Toxicomanie",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Transgenre",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Transsexualité",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Trouble bipolaire",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Trouble de la personnalité",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Trouble hypocondriaque",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Troubles du comportement alimentaire",
+      "category": "",
+      "isFeatured": true
+    },
+    {
+      "label": "Troubles sexuels",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Vaginisme",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Victimologie",
+      "category": "",
+      "isFeatured": false
+    },
+    {
+      "label": "Violence faite aux femmes",
+      "category": "",
+      "isFeatured": false
     }
   ]
 }
